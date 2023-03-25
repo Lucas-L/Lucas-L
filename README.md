@@ -8,5 +8,5 @@
 - [Craft Network](https://craft.network), a cross-chain NFT marketplace aiming to bring unified liquidity to the NFT market.
 
 - [Equality](https://equality.exchange), a Stable Swap AMM on ICON that provides liquidity for similarly-priced assets
-- [Everest Swap](https://everestswap.exchange), an Uniswap fork on the ICE and SNOW blockchain
+
 
