@@ -3,9 +3,9 @@
 
 ###  ![](https://cdn.discordapp.com/emojis/1008668021038010409.webp?size=40&quality=lossless)  Contributing to:
 
-- [Staky.io](https://staky.io) , Staking as a Service provider and blockchain contributor
+- [Staky.io](https://staky.io) , Staking as a Service focused around ICON and the Cosmos ecosystem and blockchain contributions
 
-- [Craft Network](https://craft.network), a cross-chain NFT marketplace aiming to bring unified liquidity to the NFT market.
+- [Craft Network](https://craft.network), a cross-chain NFT marketplace bringing unified liquidity to the NFT market.
 
 - [Equality](https://equality.exchange), a Stable Swap AMM on ICON that provides liquidity for similarly-priced assets
 
