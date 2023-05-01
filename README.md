@@ -7,7 +7,7 @@
 
 - [Craft Network](https://craft.network), a cross-chain NFT marketplace bringing unified liquidity to the NFT market.
 
-- [Equality](https://equality.exchange), a Stable Swap AMM on ICON that provides liquidity for similarly-priced assets.
+- [Equality](https://equality.exchange), a Stable-Swap AMM on ICON that provides liquidity for similarly-priced assets.
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lucas-L) 
