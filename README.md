@@ -6,7 +6,6 @@
 Tokenizing real estate credit and bringing real-world yield to stablecoin LPs.
 Previously co-founded [Staky.io](https://staky.io) (staking-as-a-service, 20+ DPoS networks, $800M+ staked).
 
-Most of my work lives in private repos. Here's the footprint.
 
 ### Activity
 
